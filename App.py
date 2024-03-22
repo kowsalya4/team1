@@ -1,2 +1,4 @@
 print("Kalam")
-print("Dont worry")
+print("Hi")
+if 0<1:
+    print("point")
