@@ -1,4 +1,3 @@
 print("Kalam")
-print("Hi")
-if 0<1:
-    print("point")
+print("Hello")
+    print("team1")
